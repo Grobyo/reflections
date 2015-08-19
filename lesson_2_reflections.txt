@@ -1,0 +1,5 @@
+Lesson 2
+Q #1
+What happens when you initialize a repository? Why do you need to do it?
+You are creating a empty git repository for your project files, it will have no entries. To begin version tracking
+you will need to make a commit
