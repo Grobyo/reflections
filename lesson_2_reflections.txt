@@ -3,3 +3,11 @@ Q #1
 What happens when you initialize a repository? Why do you need to do it?
 You are creating a empty git repository for your project files, it will have no entries. To begin version tracking
 you will need to make a commit
+Q #2
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+The taging area contains the files you have selected for your git repo. Its provides a directory which allows you 
+to view the files you have selected for inclusiion before you commit them to the repository.
+Q #3
+How can you use the staging area to make sure you have one commit per logical change?
+Stage one commit at a time and used git fdiff --staged to compare and make sure only one chnage is ready to commit
+  
