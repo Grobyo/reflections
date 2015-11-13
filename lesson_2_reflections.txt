@@ -10,4 +10,9 @@ to view the files you have selected for inclusiion before you commit them to the
 Q #3
 How can you use the staging area to make sure you have one commit per logical change?
 Stage one commit at a time and used git fdiff --staged to compare and make sure only one chnage is ready to commit
+Q #4
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If more than one person is working on a project, if one project section requires additional work use branch to avoid production delays
+split the project into section (branches) for different engineers to work on.
+Branches for different languages for an app or website
   
