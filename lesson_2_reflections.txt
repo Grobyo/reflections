@@ -15,4 +15,11 @@ What are some situations when branches would be helpful in keeping your history 
 If more than one person is working on a project, if one project section requires additional work use branch to avoid production delays
 split the project into section (branches) for different engineers to work on.
 Branches for different languages for an app or website
+Q #5
+How do the diagrams help you visualize the branch structure? 
+They show you the logical progression of commits and changes. They show you what data you can and cant reach from a branch
+Q #6
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We combine two sepetate development paths and drop the label to the orphan branch. 
+we represent them in tree style so we can track which commits will be visible from the new master track
   
