@@ -22,4 +22,9 @@ Q #6
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We combine two sepetate development paths and drop the label to the orphan branch. 
 we represent them in tree style so we can track which commits will be visible from the new master track
+Q #7
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic: If there are no conflicts, then auto merging is faster and smoother.
+Manual: If there are conflicts git will not auto merge and you will have to review the log to show the conflicts and make the changes yourself.
+ 
   
