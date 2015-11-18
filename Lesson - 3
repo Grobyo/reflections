@@ -5,4 +5,9 @@ Q#9
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 You may be working on a experimental section or debugging a code section and you dont want that information getting updated or overwritten during the process.
 Auto updating may be adding varaibles you dont want to deal with at the time.
+Q #10
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork: Exists on Github only and allows you to make a copy of a repository of another user, which you can modify without impacting original repository
+Clones: Creates a linked copy of a github repository whcih you can downlaod to your local machine and can then revise and uplaod as needed
+Branch: creates a branch of an existing project in the sme repository which you can work on and merge as and when required.
      
