@@ -1,3 +1,8 @@
-Q#1
+Q#8
 When would you want to use a remote repository rather than keeping all your work local?
 You can use a remote as a backup, use it when ther is more than one person working on the project, use it when you work on the project from more than 1 machine.
+Q#9
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+You may be working on a experimental section or debugging a code section and you dont want that information getting updated or overwritten during the process.
+Auto updating may be adding varaibles you dont want to deal with at the time.
+     
