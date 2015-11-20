@@ -14,4 +14,12 @@ Q #11
 What is the benefit of having a copy of the last known state of the remote stored locally?   
 you dont need internet access to work on code, so you downlaod the latest copy locally, revise and adjsut as needed
 and then when you have access again, you can commit & push
-   
+Q #12
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+With great difficulty and a much slower developmnet process
+It would probably be vis some sort of screen share or gotto meeting type software.
+The downside is that all developers would have to be connected at the time so if it involves a change in time zones, someone
+will be disrupted, working accross continents would be very difficult.
+From an easier point of view if everybody is working on the same project at the same time, then its easier to track hours
+
+        
