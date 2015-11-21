@@ -21,5 +21,8 @@ It would probably be vis some sort of screen share or gotto meeting type softwar
 The downside is that all developers would have to be connected at the time so if it involves a change in time zones, someone
 will be disrupted, working accross continents would be very difficult.
 From an easier point of view if everybody is working on the same project at the same time, then its easier to track hours
-
-        
+Q #13
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+On Larger projects where you are tasked with updating a particular section or on a branch whcih you have designated as experimental
+If you need to propose some new ideas and get feedback, then an operational branch would make sense.
+          
